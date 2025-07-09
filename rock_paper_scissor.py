@@ -4,7 +4,7 @@ class Game:
     def __init__(self):
         # get the computer's pick 
         self.computer_pick = self.get_computer_pick()
-
+        
         # get the user's pick
         self.user_pick = self.get_user_pick()
 
